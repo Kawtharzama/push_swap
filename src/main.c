@@ -6,11 +6,11 @@
 /*   By: kabu-zee <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/14 09:37:15 by kabu-zee          #+#    #+#             */
-/*   Updated: 2024/12/14 09:37:17 by kabu-zee         ###   ########.fr       */
+/*   Updated: 2024/12/14 16:27:29 by kabu-zee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include "push_swap.h"
-	
+ 	
 void init_stack(t_list **stack_a, char** argv, int argc)
 {
 	int i;
